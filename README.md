@@ -1,11 +1,22 @@
-## One Dark Syntax theme
+# One Dark Pro Vivid Syntax theme
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+One Dark Pro Vivid syntax port to Atom
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+# Install
 
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+Open a console and type:
 
-### Install
+```shell
+apm install one-dark-pro-vivid-syntax
+```
 
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+Or, inside Atom's settings select Install and then search for this package.
+
+# Screenshots
+
+## - PHP
+![php](https://user-images.githubusercontent.com/15709414/30395402-a0a9a378-988b-11e7-9779-60cc587d304d.jpg)
+
+
+
+
