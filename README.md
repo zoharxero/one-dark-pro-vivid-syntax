@@ -24,8 +24,8 @@ Or, inside Atom's settings select Install and then search for this package.
 ### - Markdown
 ![markdown](https://user-images.githubusercontent.com/15709414/30445054-7b1be8fe-994a-11e7-8813-5f8dddd6fa78.png)
 
-### - PHP
-![php](https://user-images.githubusercontent.com/15709414/30395402-a0a9a378-988b-11e7-9779-60cc587d304d.jpg)
+### - PHP (for better color highlight use Atom >= 1.20.0)
+![php](https://user-images.githubusercontent.com/15709414/30447961-11ca73e4-9953-11e7-938d-20b7355ee09a.png)
 
 ### - Python
 ![python](https://user-images.githubusercontent.com/15709414/30406578-4b5805e0-98b8-11e7-8c4d-c08d9bea8460.jpg)
