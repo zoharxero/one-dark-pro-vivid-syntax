@@ -22,3 +22,6 @@ Or, inside Atom's settings select Install and then search for this package.
 
 ### - PHP
 ![php](https://user-images.githubusercontent.com/15709414/30395402-a0a9a378-988b-11e7-9779-60cc587d304d.jpg)
+
+### - Python
+![python](https://user-images.githubusercontent.com/15709414/30406578-4b5805e0-98b8-11e7-8c4d-c08d9bea8460.jpg)
