@@ -25,7 +25,7 @@ Or, inside Atom's settings select Install and then search for this package.
 ---
 
 ### Markdown
-![markdown](https://user-images.githubusercontent.com/15709414/30445054-7b1be8fe-994a-11e7-8813-5f8dddd6fa78.png)
+![markdown](https://user-images.githubusercontent.com/15709414/30453010-0b408f0e-995d-11e7-96d6-4f6710cbb27c.png)
 
 ---
 
