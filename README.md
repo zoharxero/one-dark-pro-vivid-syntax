@@ -22,7 +22,7 @@ Or, inside Atom's settings select Install and then search for this package.
 ![html](https://user-images.githubusercontent.com/15709414/30444902-155c7cae-994a-11e7-99f5-67b9a25c0558.png)
 
 ### - Markdown
-![markdown](https://user-images.githubusercontent.com/15709414/30404491-892bf8e2-98ac-11e7-963c-817d60aa40a9.jpg)
+![markdown](https://user-images.githubusercontent.com/15709414/30445054-7b1be8fe-994a-11e7-8813-5f8dddd6fa78.png)
 
 ### - PHP
 ![php](https://user-images.githubusercontent.com/15709414/30395402-a0a9a378-988b-11e7-9779-60cc587d304d.jpg)
