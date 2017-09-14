@@ -14,6 +14,10 @@ Or, inside Atom's settings select Install and then search for this package.
 
 # Screenshots
 
+### - CSS
+![css](https://user-images.githubusercontent.com/15709414/30447353-71f0dfd0-9951-11e7-9618-b3efbbfe72a0.png)
+
+
 ### - HTML
 ![html](https://user-images.githubusercontent.com/15709414/30444902-155c7cae-994a-11e7-99f5-67b9a25c0558.png)
 
