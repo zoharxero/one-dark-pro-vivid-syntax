@@ -20,7 +20,7 @@ Or, inside Atom's settings select Install and then search for this package.
 ---
 
 ### HTML
-![html](https://user-images.githubusercontent.com/15709414/30444902-155c7cae-994a-11e7-99f5-67b9a25c0558.png)
+![html](https://user-images.githubusercontent.com/15709414/30453126-70f65b26-995d-11e7-9a5d-a31d6f3142f5.png)
 
 ---
 
