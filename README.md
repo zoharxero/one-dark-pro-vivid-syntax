@@ -30,7 +30,7 @@ Or, inside Atom's settings select Install and then search for this package.
 ---
 
 ### PHP (for better color highlight use Atom >= 1.20.0)
-![php](https://user-images.githubusercontent.com/15709414/30447961-11ca73e4-9953-11e7-938d-20b7355ee09a.png)
+![php](https://user-images.githubusercontent.com/15709414/30452865-b597b758-995c-11e7-966c-c7771d923e6d.png)
 
 ---
 
