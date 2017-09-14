@@ -24,6 +24,11 @@ Or, inside Atom's settings select Install and then search for this package.
 
 ---
 
+### JavaScript
+![javascript](https://user-images.githubusercontent.com/15709414/30456153-1b805cc2-9968-11e7-9cec-c1d338f48d8b.png)
+
+---
+
 ### Markdown
 ![markdown](https://user-images.githubusercontent.com/15709414/30453010-0b408f0e-995d-11e7-96d6-4f6710cbb27c.png)
 
